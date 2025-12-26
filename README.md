@@ -47,6 +47,4 @@ If you want to run this on your own machine instead of the cloud:
 * **IoT Integration:** Connect to Arduino/Raspberry Pi to physically control LED traffic lights.
 
 ---
-*Created by [Yugeshwar
-Visvesh
-Sangareshwari]*
+*Created by [Yugeshwar.P]*
