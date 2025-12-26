@@ -2,7 +2,7 @@
 
 ### Prioritizing Emergency Vehicles using Computer Vision & AI
 
-**Live Demo:** [Click here to view the App](https://share.streamlit.io/) *(Paste your specific Streamlit link here after deploying)*
+**Live Demo:** [Click here to view the App]( https://traffic-management-lseupwblyvpwfhdzv6rd4x.streamlit.app/)*(Paste your specific Streamlit link here after deploying)*
 
 ---
 
